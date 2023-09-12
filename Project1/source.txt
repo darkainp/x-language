@@ -1,0 +1,22 @@
+arr int array(5).
+int i.
+real r.
+char c.
+str string.
+hex h.
+yn y.
+ptr int p.
+
+def none msg[]
+<
+
+i = 4.
+dec i.
+send(i).
+send(i e2 0).
+
+til [i e2 0]
+< 
+send(i e2 0).
+>
+>
